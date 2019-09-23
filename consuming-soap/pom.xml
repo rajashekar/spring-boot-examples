@@ -62,6 +62,11 @@
 			<artifactId>jaxws-api</artifactId>
 			<version>2.2.6</version>
 		</dependency>
+		<dependency>
+			<groupId>com.github.haifengl</groupId>
+			<artifactId>smile-core</artifactId>
+			<version>1.5.3</version>
+		</dependency>
 
 	</dependencies>
 
